@@ -1,6 +1,6 @@
 
 
-## `flutter internationalization & switching locales manually in Real Time` 
+## `Flutter internationalization & switching locales manually in Real Time` 
 
 Demonstrates basic translations using a `I18n` widget.
   
