@@ -1,6 +1,6 @@
 
 
-## `example/lib/example2` 
+## `flutter internationalization & switching locales manually in Real Time` 
 
 Demonstrates basic translations using a `I18n` widget.
   
@@ -12,9 +12,7 @@ There are 3 widget files that need translations:
 This time we demonstrate how to use a single translations-file for all of them:
 * my.i18n.dart
 
-Note: The translations-files in this example use identifiers as keys. For example:
-
-     youClickedThisNumberOfTimes.plural(counter)
+Note: The translations-files in this example to use to create one json file and use it across the application. Instead of maintaining each files for seperate screen.
 
 ---
 
